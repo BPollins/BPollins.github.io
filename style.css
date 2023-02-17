@@ -1,5 +1,5 @@
 *{
-background-color: hsl(270,80,20);
+background-color: black;
 font-family: 'helvetica';
 }
 
@@ -7,17 +7,17 @@ h1{
 font-weight: bold;
 text-align: center;
 padding: 20px;
-color: white;
+color: cream;
 font-size: 40px;
 }
 
 h2{
 font-style: italic;
-color: hsl(200,20,80);
+color: white;
 font-size: 20px;
 }
 
 p{
-color: hsl(60,20,80);
+color: white;
 font-size: 10px;
 }
